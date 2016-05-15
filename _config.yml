@@ -8,10 +8,9 @@
 # Site settings
 title: Codersjunto
 email: barrettpaulj@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-	My posts concerning security, programming, administration, ...
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://paul-j-barrett.github.io" # the base hostname & protocol for your site
+description: "My posts concerning security, programming, administration, ..."
+baseurl: ""
+url: "http://paul-j-barrett.github.io"
 twitter_username: codersjunto
 github_username:  paul-j-barrett
 
