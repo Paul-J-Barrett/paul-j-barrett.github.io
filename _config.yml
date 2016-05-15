@@ -13,6 +13,9 @@ baseurl: ""
 url: "http://paul-j-barrett.github.io"
 twitter_username: codersjunto
 github_username:  paul-j-barrett
+facebook_username: codersjunto
+googlep_username: 
+website:	"http://www.codersjunto.com"
 
 # Build settings
 markdown: kramdown
